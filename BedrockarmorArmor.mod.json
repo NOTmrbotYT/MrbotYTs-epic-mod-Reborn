@@ -1,0 +1,62 @@
+{
+  "_fv": 24,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "bedrockarmor_head",
+    "enableBody": true,
+    "textureBody": "bedrockarmor_body",
+    "enableLeggings": true,
+    "textureLeggings": "bedrockarmor_leggings",
+    "enableBoots": true,
+    "textureBoots": "bedrockarmor_boots",
+    "creativeTab": {
+      "value": "CUSTOM:Ctabj"
+    },
+    "armorTextureFile": "bedrockarmor",
+    "helmetName": "Bedrock Helmet",
+    "bodyName": "Bedrock Chestplate",
+    "leggingsName": "Bedrock Leggings",
+    "bootsName": "Bedrock Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetImmuneToFire": true,
+    "bodyImmuneToFire": true,
+    "leggingsImmuneToFire": true,
+    "bootsImmuneToFire": true,
+    "maxDamage": 150,
+    "damageValueHelmet": 20,
+    "damageValueBody": 50,
+    "damageValueLeggings": 60,
+    "damageValueBoots": 20,
+    "enchantability": 90,
+    "toughness": 10.0,
+    "knockbackResistance": 0.2,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Usablebedrock"
+      }
+    ]
+  }
+}
